@@ -1,0 +1,10 @@
+{
+  "mq": {
+    "incoming": {
+      "uri": "tcp://127.0.0.1:8801"      
+    }
+  },
+  "telegram": {
+    "token": "147742990:AAFiUITXJznJLAmSPrsS94yPYlWnp00M-kw"
+  }
+}
