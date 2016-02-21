@@ -1,10 +1,10 @@
 {
   "mq": {
-    "incoming": {
-      "uri": "tcp://127.0.0.1:8801"      
-    }
+    "uri": "tcp://127.0.0.1:8801",
+    "topic": "messager"
   },
   "telegram": {
-    "token": "147742990:AAFiUITXJznJLAmSPrsS94yPYlWnp00M-kw"
+    "bot-token": "147742990:AAFiUITXJznJLAmSPrsS94yPYlWnp00M-kw",
+    "chat-id": 62667984
   }
 }
